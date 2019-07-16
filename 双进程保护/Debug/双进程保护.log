@@ -1,0 +1,3 @@
+﻿  双进程保护.cpp
+d:\vs_code\双进程保护\双进程保护\双进程保护.cpp(123): warning C4715: “DebugLoop”: 不是所有的控件路径都返回值
+  双进程保护.vcxproj -> D:\vs_code\双进程保护\Debug\双进程保护.exe
